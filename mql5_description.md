@@ -2,7 +2,7 @@
 
 ## Overview
 
-FvgGold is a free, open-source Expert Advisor for trading Gold (XAUUSD) on MetaTrader 5. It uses institutional trading concepts — Fair Value Gaps (FVG), Order Blocks, and killzone sessions — to enter high-probability trades with a fixed risk-to-reward ratio.
+FvgGold is an Expert Advisor for trading Gold (XAUUSD) on MetaTrader 5. It uses institutional trading concepts — Fair Value Gaps (FVG), Order Blocks, and killzone sessions — to enter high-probability trades with a fixed risk-to-reward ratio.
 
 Unlike most free EAs that use dangerous grid or martingale systems, FvgGold takes one quality trade at time, scored and filtered by multiple confluence factors.
 
